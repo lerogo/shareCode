@@ -1,1 +1,0 @@
- - [fork_from](https://github.com/richenyunqi/Common-code-templates-for-ACM-PAT-CSP-OJ-topics)
