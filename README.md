@@ -12,6 +12,7 @@
 ------------
 
 ## 目录(时间倒叙)
+ - [图片转base64](https://github.com/lerogo/shareCode/tree/master/%E5%9B%BE%E7%89%87%E8%BD%ACbase64)：经常用base64图片，然后用python练练手
  - [bingWallpaper-windows](https://github.com/lerogo/shareCode/tree/master/bingWallpaper-windows)：windows下设置自动更换壁纸脚本，删除原来的仓库转移到此处。
  - [ARW 转 JPG](https://github.com/lerogo/shareCode/tree/master/ARW-to-jpg)：索尼ARW转JPG，python，删除原来的仓库转移到此处。
  - [算法模板](https://github.com/lerogo/shareCode/tree/master/%E7%AE%97%E6%B3%95%E6%A8%A1%E7%89%88)：fork from [richenyunqi](https://github.com/richenyunqi/Common-code-templates-for-ACM-PAT-CSP-OJ-topics)，感谢他的代码。
