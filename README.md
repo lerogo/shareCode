@@ -1,7 +1,7 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # 爬虫、算法模板、小代码（java、python、c/c++)
  ## 关于作者
- - [@lerogo](https://github.com/lerogo/ "@lerogo"), 我的[博客](https://blog.lerogo.top/)，如果你想[给我点钱买奶茶](https://www.lerogo.top/pay/)🤣
+ - [@lerogo](https://github.com/lerogo/ "@lerogo"), 我的[博客](https://blog.lerogo.top/)，如果你想[给我点钱买奶茶](https://pay.lerogo.top/)🤣
  - 推荐：[简单搜索](https://s.lerogo.top/) 一款没有广告，适合开发者的搜索网页
  - 2019-11-20 14:31:27 星期三
 ------------
