@@ -1,8 +1,8 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # 爬虫、算法模板、小代码（java、python、c/c++)
  ## 关于作者
- - [@lerogo](https://github.com/lerogo/ "@lerogo"), 我的[博客](https://www.lerogo.top/)，如果你想[给我点钱买奶茶](https://www.lerogo.top/pay/)🤣
- - 推荐：[简单搜索](https://www.lerogo.top/search/) 一款没有广告，适合开发者的搜索网页
+ - [@lerogo](https://github.com/lerogo/ "@lerogo"), 我的[博客](https://blog.lerogo.top/)，如果你想[给我点钱买奶茶](https://pay.lerogo.top/)🤣
+ - 推荐：[简单搜索](https://s.lerogo.top/) 一款没有广告，适合开发者的搜索网页
  - 2019-11-20 14:31:27 星期三
 ------------
 
@@ -12,6 +12,7 @@
 ------------
 
 ## 目录(时间倒叙)
+ - [csrgetcert](https://github.com/lerogo/shareCode/tree/master/csrgetcert)：使用自己的csr免费申请三个月通配符证书脚本
  - [图片转base64](https://github.com/lerogo/shareCode/tree/master/%E5%9B%BE%E7%89%87%E8%BD%ACbase64)：经常用base64图片，然后用python练练手
  - [bingWallpaper-windows](https://github.com/lerogo/shareCode/tree/master/bingWallpaper-windows)：windows下设置自动更换壁纸脚本，删除原来的仓库转移到此处。
  - [ARW 转 JPG](https://github.com/lerogo/shareCode/tree/master/ARW-to-jpg)：索尼ARW转JPG，python，删除原来的仓库转移到此处。
