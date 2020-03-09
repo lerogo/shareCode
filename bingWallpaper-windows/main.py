@@ -10,6 +10,8 @@ from fake_useragent import UserAgent
 
 global image_name
 image_name = "undefined.png"
+global _headers
+_headers = {'User-Agent': UserAgent().random}
 def save_img(img_url,dirname):
     global image_name
     #保存图片到磁盘文件夹dirname中
@@ -31,11 +33,11 @@ def save_img(img_url,dirname):
 #flag=1是使用自带爬取  flag=2为使用自己的api或者别人提供的api
 def get_img_url(flag):
     global image_name
-    headers = {'User-Agent': UserAgent().random}
+    global _headers
     if flag==1:
         #我喜欢第一页最新的，可以使用random.randint(1,5)
         img_page=1
-        resp = requests.get("https://bing.ioliu.cn/?p=" + str(img_page),headers=headers)
+        resp = requests.get("https://bing.ioliu.cn/?p=" + str(img_page),headers=_headers)
         soup = BeautifulSoup(resp.text, 'lxml')
         a_s = soup.find_all('a', class_='mark')
         #必应图片里面的第一页图片随机
