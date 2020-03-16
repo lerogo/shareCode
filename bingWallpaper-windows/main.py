@@ -11,7 +11,7 @@ from fake_useragent import UserAgent
 global image_name
 image_name = "undefined.png"
 global _headers
-_headers = {'User-Agent': UserAgent().random}
+_headers = {'User-Agent': UserAgent( path=(os.getcwd() + '/fake_useragent.json') ).random}
 def save_img(img_url,dirname):
     global image_name
     #保存图片到磁盘文件夹dirname中
