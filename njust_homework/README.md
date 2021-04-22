@@ -1,0 +1,1 @@
+详细见 【南理工智科作业汇总】仓库 [njust_homeword](https://github.com/lerogo/njust_homework)
