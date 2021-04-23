@@ -1,0 +1,60 @@
+{
+  "矩形障碍_设置": [
+    {
+      "type": "rectangle",
+      "sx": 50,
+      "sy": 50,
+      "ex": 70,
+      "ey": 70
+    },
+    {
+      "type": "rectangle",
+      "sx": 20,
+      "sy": 55,
+      "ex": 25,
+      "ey": 65
+    },
+    {
+      "type": "rectangle",
+      "sx": 30,
+      "sy": 30,
+      "ex": 40,
+      "ey": 40
+    },
+    {
+      "type": "rectangle",
+      "sx": 10,
+      "sy": 20,
+      "ex": 15,
+      "ey": 27
+    },
+    {
+      "type": "rectangle",
+      "sx": 70,
+      "sy": 100,
+      "ex": 90,
+      "ey": 130
+    },
+    {
+      "type": "rectangle",
+      "sx": 110,
+      "sy": 30,
+      "ex": 140,
+      "ey": 50
+    },
+    {
+      "type": "rectangle",
+      "sx": 0,
+      "sy": 130,
+      "ex": 130,
+      "ey":140
+    },
+    {
+      "type": "rectangle",
+      "sx": 20,
+      "sy": 80,
+      "ex": 150,
+      "ey":90
+    }
+  ]
+}

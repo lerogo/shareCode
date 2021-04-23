@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec  1 16:30:33 2020
+# Process ID: 4044
+# Current directory: C:/Users/lenovo/Desktop/hhl2/rom/rom.runs/impl_1
+# Command line: vivado.exe -log rom.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rom.tcl -notrace
+# Log file: C:/Users/lenovo/Desktop/hhl2/rom/rom.runs/impl_1/rom.vdi
+# Journal file: C:/Users/lenovo/Desktop/hhl2/rom/rom.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source rom.tcl -notrace

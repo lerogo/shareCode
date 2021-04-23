@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec  8 15:59:45 2020
+# Process ID: 3888
+# Current directory: C:/Users/lenovo/Desktop/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/lenovo/Desktop/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim/xsim.dir/reggroup32_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/lenovo/Desktop/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/lenovo/Desktop/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/lenovo/Desktop/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim/xsim.dir/reggroup32_tb_behav/webtalk/xsim_webtalk.tcl -notrace

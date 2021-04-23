@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri Nov 27 12:27:10 2020
+# Process ID: 856
+# Current directory: C:/Users/lenovo/Desktop/hhl/alu/alu.runs/synth_1
+# Command line: vivado.exe -log ALU_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_led.tcl
+# Log file: C:/Users/lenovo/Desktop/hhl/alu/alu.runs/synth_1/ALU_led.vds
+# Journal file: C:/Users/lenovo/Desktop/hhl/alu/alu.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU_led.tcl -notrace

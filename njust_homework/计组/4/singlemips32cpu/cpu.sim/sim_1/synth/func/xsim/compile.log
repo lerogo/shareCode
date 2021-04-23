@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singlemips32cpu/cpu.sim/sim_1/synth/func/xsim/SingleCPU_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module SingleCPU
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singlemips32cpu/cpu.srcs/sources_1/new/SingleCPU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SingleCPU_tb

@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/Multiplexer32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplexer32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/Multiplexer5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplexer5
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/SignZeroExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignZeroExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/SingleCPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SingleCPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.srcs/sources_1/new/SingleCPU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SingleCPU_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/singleMIPSCPU32/cpu/cpu.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
