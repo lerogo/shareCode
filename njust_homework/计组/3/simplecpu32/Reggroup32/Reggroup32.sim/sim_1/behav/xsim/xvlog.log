@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lerogo/Desktop/组原实验/hhl3/simplecpu32/Reggroup32/Reggroup32.srcs/sources_1/new/reggroup32.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module reggroup32
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lerogo/Desktop/组原实验/hhl3/simplecpu32/Reggroup32/Reggroup32.srcs/sim_1/new/reggroup32_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module reggroup32_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lerogo/Desktop/组原实验/hhl3/simplecpu32/Reggroup32/Reggroup32.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
