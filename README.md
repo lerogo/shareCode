@@ -12,7 +12,8 @@
 ------------
 
 ## 目录(时间倒叙)
- - [njust_homeword](https://github.com/lerogo/njust_homework)：南理工智科作业汇总
+ - [java人脸](https://github.com/lerogo/shareCode/tree/master/opencv_face_java)：很久之前做的人脸处理
+ - [njust_homework](https://github.com/lerogo/njust_homework)：南理工智科作业汇总
  - [搜索引擎爬取_侵权检测](https://github.com/lerogo/shareCode/tree/master/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%88%AC%E5%8F%96_%E4%BE%B5%E6%9D%83%E6%A3%80%E6%B5%8B)：侵权检测的搜索引擎爬虫系统
  - [csrgetcert](https://github.com/lerogo/shareCode/tree/master/csrgetcert)：使用自己的csr免费申请三个月通配符证书脚本
  - [图片转base64](https://github.com/lerogo/shareCode/tree/master/%E5%9B%BE%E7%89%87%E8%BD%ACbase64)：经常用base64图片，然后用python练练手
