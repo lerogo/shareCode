@@ -1,0 +1,3 @@
+freertos.c:75:6:MX_FREERTOS_Init	8	static
+freertos.c:120:6:task_led0_start	16	static
+freertos.c:138:6:task_led1_start	16	static
